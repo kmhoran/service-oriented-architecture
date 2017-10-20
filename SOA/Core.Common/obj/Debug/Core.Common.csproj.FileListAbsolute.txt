@@ -1,4 +1,1 @@
-C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\Core.Common\bin\Debug\Core.Common.dll
-C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\Core.Common\bin\Debug\Core.Common.pdb
-C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\Core.Common\obj\Debug\Core.Common.dll
-C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\Core.Common\obj\Debug\Core.Common.pdb
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\Core.Common\obj\Debug\Core.Common.csprojResolveAssemblyReference.cache

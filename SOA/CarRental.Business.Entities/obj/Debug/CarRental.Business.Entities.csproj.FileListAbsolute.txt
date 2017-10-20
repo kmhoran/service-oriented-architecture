@@ -1,9 +1,1 @@
-C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Business.Entities\bin\Debug\CarRental.Business.Entities.dll
-C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Business.Entities\bin\Debug\CarRental.Business.Entities.pdb
-C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Business.Entities\bin\Debug\Core.Common.Contracts.dll
-C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Business.Entities\bin\Debug\Core.Common.dll
-C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Business.Entities\bin\Debug\Core.Common.Contracts.pdb
-C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Business.Entities\bin\Debug\Core.Common.pdb
 C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Business.Entities\obj\Debug\CarRental.Business.Entities.csprojResolveAssemblyReference.cache
-C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Business.Entities\obj\Debug\CarRental.Business.Entities.dll
-C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Business.Entities\obj\Debug\CarRental.Business.Entities.pdb

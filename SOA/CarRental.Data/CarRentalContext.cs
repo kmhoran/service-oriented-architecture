@@ -20,6 +20,7 @@ namespace CarRental.Data
             Database.SetInitializer <CarRentalContext>(null);
         }
 
+        // A property for each table
         public DbSet<Account> AccountSet { get; set; }
 
         public DbSet<Car> CarSet { get; set; }

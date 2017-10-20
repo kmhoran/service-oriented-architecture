@@ -1,0 +1,1 @@
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Data\obj\Debug\CarRental.Data.csprojResolveAssemblyReference.cache

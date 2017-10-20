@@ -1,4 +1,5 @@
 C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
 C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.csprojResolveAssemblyReference.cache
 C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
 C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb

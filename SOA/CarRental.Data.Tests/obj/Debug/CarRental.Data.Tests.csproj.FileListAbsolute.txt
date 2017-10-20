@@ -1,0 +1,6 @@
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.dll.config
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.dll
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.pdb
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.csprojResolveAssemblyReference.cache
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.dll
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.pdb
