@@ -20,6 +20,8 @@ namespace Core.Common.Data
 
         protected abstract T GetEntity(U entityContext, int id);
 
+
+
         public T Add(T entity)
         {
             using(U entityContext = new U())
@@ -54,6 +56,7 @@ namespace Core.Common.Data
         }
 
 
+
         public T Update(T entity)
         {
             using(U entityContext = new U())
@@ -67,6 +70,8 @@ namespace Core.Common.Data
             }
         }
 
+
+
         public IEnumerable<T> Get()
         {
             using(U entityContext = new U())
@@ -74,6 +79,7 @@ namespace Core.Common.Data
                 return (GetEntities(entityContext)).ToArray().ToList();
             }
         }
+
 
 
         public T Get(int id)
