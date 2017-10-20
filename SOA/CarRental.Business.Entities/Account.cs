@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace CarRental.Business.Entities
 {
     [DataContract]
-    class Account : EntityBase, IIdentifiableEntity
+    public class Account : EntityBase, IIdentifiableEntity
     {
         [DataMember]
         public int AccountId { get; set; }
