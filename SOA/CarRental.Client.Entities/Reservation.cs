@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Core.Common.Core;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CarRental.Client.Entities
 {
-    class Reservation
+    class Reservation : ObjectBase
     {
         int _ReservationId;
         int _AccountId;
@@ -17,33 +18,68 @@ namespace CarRental.Client.Entities
         public int ReservationId
         {
             get { return _ReservationId; }
-            set { _ReservationId = value; }
+            set
+            {
+                if (_ReservationId != value)
+                {
+                    _ReservationId = value;
+                    OnPropertyChanged("ReservationId");
+                }
+            }
 
         }
 
         public int AccountId
         {
             get { return _AccountId; }
-            set { _AccountId = value; }
+            set
+            {
+                if (_AccountId != value)
+                {
+                    _AccountId = value;
+                    OnPropertyChanged("AccountId");
+                }
+            }
         }
 
         public int CarId
         {
             get { return _CarId; }
-            set { _CarId = value; }
+            set
+            {
+                if (_CarId != value)
+                {
+                    _CarId = value;
+                    OnPropertyChanged("CarId");
+                }
+            }
         }
 
-        public DateTime Rental
+        public DateTime RentalDate
         {
             get { return _RentalDate; }
-            set { _RentalDate = value; }
+            set
+            {
+                if (_RentalDate != value)
+                {
+                    _RentalDate = value;
+                    OnPropertyChanged("RentalDate");
+                }
+            }
         }
 
 
         public DateTime ReturnDate
         {
             get { return _ReturnDate; }
-            set { _ReturnDate = value; }
+            set
+            {
+                if (_ReturnDate != value)
+                {
+                    _ReturnDate = value;
+                    OnPropertyChanged("ReturnDate");
+                }
+            }
         }
     }
 }

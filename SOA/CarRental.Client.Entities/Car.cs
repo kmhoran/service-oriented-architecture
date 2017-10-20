@@ -7,7 +7,7 @@ using Core.Common.Core;
 
 namespace CarRental.Client.Entities
 {
-    public class Car : TempObjectBase
+    public class Car : ObjectBase
     {
         int _CarId;
         string _Description;
@@ -25,7 +25,7 @@ namespace CarRental.Client.Entities
                 if (_CarId != value)
                 {
                     _CarId = value;
-                    OnPropertyChanged("CarId"); 
+                    OnPropertyChanged("CarId");
                 }
             }
         }
@@ -38,7 +38,7 @@ namespace CarRental.Client.Entities
                 if (_Description != value)
                 {
                     _Description = value;
-                    OnPropertyChanged("Description"); 
+                    OnPropertyChanged("Description");
                 }
             }
         }
@@ -51,7 +51,7 @@ namespace CarRental.Client.Entities
                 if (_Color != value)
                 {
                     _Color = value;
-                    OnPropertyChanged("Color"); 
+                    OnPropertyChanged("Color");
                 }
             }
         }
@@ -64,7 +64,7 @@ namespace CarRental.Client.Entities
                 if (_Year != value)
                 {
                     _Year = value;
-                    OnPropertyChanged("Year"); 
+                    OnPropertyChanged("Year");
                 }
             }
         }
@@ -79,7 +79,7 @@ namespace CarRental.Client.Entities
                     if (_Year != value)
                     {
                         _RentalPrice = value;
-                        OnPropertyChanged("RentalPrice");  
+                        OnPropertyChanged("RentalPrice");
                     }
                 }
             }
@@ -93,7 +93,7 @@ namespace CarRental.Client.Entities
                 if (_CurrentlyRented != value)
                 {
                     _CurrentlyRented = value;
-                    OnPropertyChanged("CurrentlyRented"); 
+                    OnPropertyChanged("CurrentlyRented");
                 }
             }
         }

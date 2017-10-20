@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Core.Common.Core;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CarRental.Client.Entities
 {
-    class Rental
+    class Rental : ObjectBase
     {
         int _RentalId;
         int _AccountId;
@@ -18,37 +19,79 @@ namespace CarRental.Client.Entities
         public int RentalId
         {
             get { return _RentalId; }
-            set { _RentalId = value; }
+            set
+            {
+                if (_RentalId != value)
+                {
+                    _RentalId = value;
+                    OnPropertyChanged("RentalId");
+                }
+            }
         }
 
         public int AccountId
         {
             get { return _AccountId; }
-            set { _AccountId = value; }
+            set
+            {
+                if (AccountId != value)
+                {
+                    _AccountId = value;
+                    OnPropertyChanged("AccountId");
+                }
+            }
         }
 
         public int CarId
         {
             get { return _CarId; }
-            set { _CarId = value; }
+            set
+            {
+                if (_CarId != value)
+                {
+                    _CarId = value;
+                    OnPropertyChanged("CarId");
+                }
+            }
         }
 
         public DateTime DateRented
         {
             get { return _DateRented; }
-            set { _DateRented = value; }
+            set
+            {
+                if (_DateRented != value)
+                {
+                    _DateRented = value;
+                    OnPropertyChanged("Daterented");
+                }
+            }
         }
 
         public DateTime DateDue
         {
             get { return _DateDue; }
-            set { _DateDue = value; }
+            set
+            {
+                if (_DateDue != value)
+                {
+                    _DateDue = value;
+                    OnPropertyChanged("DateDue");
+                }
+            }
         }
 
         public DateTime? DateReturned
         {
             get { return _DateReturned; }
-            set { _DateReturned = value; }
+            set
+            {
+                if (_DateReturned != value)
+                {
+                    _DateReturned = value;
+                    OnPropertyChanged("DateReturned");
+                }
+            }
         }
     }
 }
