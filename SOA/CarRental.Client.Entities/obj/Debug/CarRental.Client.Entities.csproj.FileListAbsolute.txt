@@ -1,1 +1,13 @@
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Client.Entities\bin\Debug\CarRental.Client.Entities.dll
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Client.Entities\bin\Debug\CarRental.Client.Entities.pdb
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Client.Entities\bin\Debug\Core.Common.Contracts.dll
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Client.Entities\bin\Debug\Core.Common.dll
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Client.Entities\bin\Debug\FluentValidation.dll
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Client.Entities\bin\Debug\EntityFramework.dll
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Client.Entities\bin\Debug\Core.Common.Contracts.pdb
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Client.Entities\bin\Debug\Core.Common.pdb
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Client.Entities\bin\Debug\FluentValidation.xml
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Client.Entities\bin\Debug\EntityFramework.xml
 C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Client.Entities\obj\Debug\CarRental.Client.Entities.csprojResolveAssemblyReference.cache
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Client.Entities\obj\Debug\CarRental.Client.Entities.dll
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\CarRental.Client.Entities\obj\Debug\CarRental.Client.Entities.pdb

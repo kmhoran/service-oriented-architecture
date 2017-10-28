@@ -1,1 +1,12 @@
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\Core.Common\bin\Debug\Core.Common.dll.config
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\Core.Common\bin\Debug\Core.Common.dll
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\Core.Common\bin\Debug\Core.Common.pdb
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\Core.Common\bin\Debug\Core.Common.Contracts.dll
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\Core.Common\bin\Debug\EntityFramework.dll
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\Core.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\Core.Common\bin\Debug\Core.Common.Contracts.pdb
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\Core.Common\bin\Debug\EntityFramework.xml
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\Core.Common\bin\Debug\EntityFramework.SqlServer.xml
 C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\Core.Common\obj\Debug\Core.Common.csprojResolveAssemblyReference.cache
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\Core.Common\obj\Debug\Core.Common.dll
+C:\_Files\_Kevin\ICS\Projects\Fall2017\ServiceOrientedArchitecture-Demo\SOA\Core.Common\obj\Debug\Core.Common.pdb
