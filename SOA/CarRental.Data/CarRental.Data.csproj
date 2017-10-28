@@ -53,7 +53,10 @@
     <Compile Include="CarRentalContext.cs" />
     <Compile Include="DataRepositories\AccountRepository.cs" />
     <Compile Include="DataRepositories\CarRepository.cs" />
+    <Compile Include="DataRepositories\RentalRespository.cs" />
+    <Compile Include="DataRepositories\ReservationRepository.cs" />
     <Compile Include="DataRepositoryBase.cs" />
+    <Compile Include="DataRepositoryFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />

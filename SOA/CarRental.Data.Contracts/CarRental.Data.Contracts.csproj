@@ -43,6 +43,9 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RepositoryInterfaces\IAccountRepository.cs" />
+    <Compile Include="RepositoryInterfaces\ICarRepository.cs" />
+    <Compile Include="RepositoryInterfaces\IRentalRepository.cs" />
+    <Compile Include="RepositoryInterfaces\IReservationRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DTOs\" />
@@ -51,6 +54,10 @@
     <ProjectReference Include="..\CarRental.Business.Entities\CarRental.Business.Entities.csproj">
       <Project>{BFE93A31-1166-41BA-85D6-1683AADC98DC}</Project>
       <Name>CarRental.Business.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CarRental.Client.Entities\CarRental.Client.Entities.csproj">
+      <Project>{5737956B-C02C-483A-9320-360EF5590DF3}</Project>
+      <Name>CarRental.Client.Entities</Name>
     </ProjectReference>
     <ProjectReference Include="..\Core.Common.Contracts\Core.Common.Contracts.csproj">
       <Project>{98673357-2886-45CA-834D-ACBB8A6F9283}</Project>

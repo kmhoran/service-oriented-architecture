@@ -48,7 +48,7 @@ namespace CarRental.Data.DataRepositories
                             where e.CarId == carId
                             select e;
 
-                return query.ToFullyLoaded();
+                return query.ToList().ToArray();
             }
         }
 
@@ -64,5 +64,8 @@ namespace CarRental.Data.DataRepositories
                 return query.FirstOrDefault();
             }
         }
+
+
+        public 
     }
 }
